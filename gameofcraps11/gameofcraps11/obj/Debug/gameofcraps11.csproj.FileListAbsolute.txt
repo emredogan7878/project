@@ -1,0 +1,10 @@
+C:\Users\fbemr\source\repos\gameofcraps11\gameofcraps11\bin\Debug\gameofcraps11.exe.config
+C:\Users\fbemr\source\repos\gameofcraps11\gameofcraps11\bin\Debug\gameofcraps11.exe
+C:\Users\fbemr\source\repos\gameofcraps11\gameofcraps11\bin\Debug\gameofcraps11.pdb
+C:\Users\fbemr\source\repos\gameofcraps11\gameofcraps11\obj\Debug\gameofcraps11.csproj.AssemblyReference.cache
+C:\Users\fbemr\source\repos\gameofcraps11\gameofcraps11\obj\Debug\gameofcraps11.Form1.resources
+C:\Users\fbemr\source\repos\gameofcraps11\gameofcraps11\obj\Debug\gameofcraps11.Properties.Resources.resources
+C:\Users\fbemr\source\repos\gameofcraps11\gameofcraps11\obj\Debug\gameofcraps11.csproj.GenerateResource.cache
+C:\Users\fbemr\source\repos\gameofcraps11\gameofcraps11\obj\Debug\gameofcraps11.csproj.CoreCompileInputs.cache
+C:\Users\fbemr\source\repos\gameofcraps11\gameofcraps11\obj\Debug\gameofcraps11.exe
+C:\Users\fbemr\source\repos\gameofcraps11\gameofcraps11\obj\Debug\gameofcraps11.pdb

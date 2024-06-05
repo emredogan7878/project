@@ -1,0 +1,13 @@
+C:\Users\fbemr\source\repos\gameofcrapsbenim\gameofcrapsbenim\bin\Debug\gameofcrapsbenim.exe.config
+C:\Users\fbemr\source\repos\gameofcrapsbenim\gameofcrapsbenim\bin\Debug\gameofcrapsbenim.exe
+C:\Users\fbemr\source\repos\gameofcrapsbenim\gameofcrapsbenim\bin\Debug\gameofcrapsbenim.pdb
+C:\Users\fbemr\source\repos\gameofcrapsbenim\gameofcrapsbenim\obj\Debug\gameofcrapsbenim.csproj.AssemblyReference.cache
+C:\Users\fbemr\source\repos\gameofcrapsbenim\gameofcrapsbenim\obj\Debug\gameofcrapsbenim.Properties.Resources.resources
+C:\Users\fbemr\source\repos\gameofcrapsbenim\gameofcrapsbenim\obj\Debug\gameofcrapsbenim.csproj.GenerateResource.cache
+C:\Users\fbemr\source\repos\gameofcrapsbenim\gameofcrapsbenim\obj\Debug\gameofcrapsbenim.csproj.CoreCompileInputs.cache
+C:\Users\fbemr\source\repos\gameofcrapsbenim\gameofcrapsbenim\obj\Debug\gameofcrapsbenim.exe
+C:\Users\fbemr\source\repos\gameofcrapsbenim\gameofcrapsbenim\obj\Debug\gameofcrapsbenim.pdb
+C:\Users\fbemr\source\repos\gameofcrapsbenim\gameofcrapsbenim\obj\Debug\gameofcrapsbenim.Form1.resources
+C:\Users\fbemr\source\repos\gameofcrapsbenim\gameofcrapsbenim\bin\Debug\zu-ZA\gameofcrapsbenim.resources.dll
+C:\Users\fbemr\source\repos\gameofcrapsbenim\gameofcrapsbenim\obj\Debug\gameofcrapsbenim.Form1.zu-ZA.resources
+C:\Users\fbemr\source\repos\gameofcrapsbenim\gameofcrapsbenim\obj\Debug\zu-ZA\gameofcrapsbenim.resources.dll
